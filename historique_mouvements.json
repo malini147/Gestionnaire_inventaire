@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2025-09-16T18:42:55.843254",
+        "produit": "Pasteque",
+        "produit_id": "ca95af26-c451-4052-a3c5-977e15549368",
+        "mouvement": "retrait",
+        "quantite": 42,
+        "ancienne_qte": 50,
+        "nouvelle_qte": 8
+    }
+]
