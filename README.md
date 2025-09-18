@@ -33,7 +33,6 @@ Installations :
 -  Git : https://git-scm.com/download.
 - Github : https://github.com
 
-Exemple d’utilisation :  
 										Auteurs : 
 								Zahra Malini Amine Saleh
 								Maryam Hamid 
